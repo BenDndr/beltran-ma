@@ -1,12 +1,9 @@
 .app {
   background-color: lightblue;
   min-height: 100vh;
-  display: flex;
-  justify-content: space-around;
-  align-items: center;
 }
 
-.tweet {
+.card {
   border-radius: 10px;
   height: 200px;
   width: 300px;
@@ -16,9 +13,4 @@
   justify-content: space-around;
   align-items: center;
   margin: 8px;
-}
-
-.red {
-  color: red;
-  font-size: 50px;
 }

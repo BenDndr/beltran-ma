@@ -1,9 +1,9 @@
 import React from 'react';
 import "./App.css";
 
-function Tweet({name, message, power}) {
+function Card({name, message, power}) {
   return(
-    <div className="tweet">
+    <div className="Card">
       <h3>{name}</h3>
       <p>{message}</p>
       <h3>{power}</h3>
@@ -11,4 +11,4 @@ function Tweet({name, message, power}) {
   );
 }
 
-export default Tweet;
+export default Card;
