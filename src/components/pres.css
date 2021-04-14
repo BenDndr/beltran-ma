@@ -1,0 +1,6 @@
+.pres {
+  display: clamp(60%, 80%, 90%);
+  padding: 36px;
+  background-color: white;
+  text-align: center;
+}

@@ -9,18 +9,25 @@ function App() {
 
       <div className="banner">
         <h1>Beltran-ma</h1>
-        <p><strong>Dépanage informatique</strong></p>
-        <a href="#" className="btn">Contact</a>
+        <p><strong>Dépanage informatique à domicile</strong></p>
+        <div class="btn-box">
+          <a href="#" className="btn">Contact</a>
+        </div>
       </div>
 
       <div className="pres">
-        <h2>Qui sommes nous ?</h2>
+        <h2>Réparation de materiel informatique</h2>
         <p>
           Dépanage informatique pour tout type de pc, sur site ou à l'attelier.
         </p>
-        <h3>Notre philosophie</h3>
+        <div class="btn-box">
+          <a href="#" className="btn">Prendre rendez-vous</a>
+        </div>
+        <h3>Notre engagement</h3>
         <p>
-          Lorem ipsum
+          Afin de lutter contre le gaspillage et d'augmenter la durée de vie de
+          votre materiel informatique, nos prestation vous permettront de conserver
+          plus longtemp votre ordinateur ou votre smartphone.
         </p>
       </div>
 
