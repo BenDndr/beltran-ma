@@ -1,0 +1,19 @@
+.banner {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  background-image: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)), url(../img/ban-info.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.banner h1 {
+  margin-bottom: 8px;
+}
+
+.banner p {
+  margin-bottom: 8px;
+}

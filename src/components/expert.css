@@ -1,0 +1,22 @@
+.expert {
+  padding-top: 16px;
+  padding-bottom: 16px;
+  text-align: center;
+}
+
+.e-cont {
+  display: flex;
+  padding-top: 16px;
+  padding-bottom: 16px;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.e-photo {
+  height: 200px;
+  width: 200px;
+  background-image: url(http://www.beltran-ma.fr/gallery_gen/6e5e878b2e97a7782e550c80dc4d2ec2_520x708_34.666666666667x0_575.46666666668x809.14285714284.jpg);
+  background-size: cover;
+  background-position: center;
+  border-radius: 50%;
+}
