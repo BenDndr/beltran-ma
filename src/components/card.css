@@ -1,6 +1,6 @@
 .card {
   border-radius: 10px;
-  width: 300px;
+  width: auto;
   background-color: white;
   display: flex;
   flex-direction: column;
@@ -10,6 +10,8 @@
 }
 
 .cards {
-  display: flex;
-  justify-content: space-around;
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+  grid-auto-rows: 300px;
 }
