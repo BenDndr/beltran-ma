@@ -1,4 +1,11 @@
 .contact {
   padding: 36px;
-  text-align: center;
+}
+
+.contact li {
+  color: white;
+}
+
+.contact h3 {
+  color: white;
 }

@@ -2,5 +2,13 @@
   display: clamp(60%, 80%, 90%);
   padding: 36px;
   background-color: white;
-  text-align: center;
+}
+
+@media only screen and (max-width: 500px) {
+  .pres {
+  display: clamp(60%, 80%, 90%);
+  padding: 8px;
+  background-color: white;
+}
+
 }

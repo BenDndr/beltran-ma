@@ -17,14 +17,18 @@ function App() {
 
       <div className="app-body">
         <div className="pres">
-          <h2>Réparation de materiel informatique</h2>
+          <div className="title-box">
+            <h2><center>Réparation de materiel informatique</center></h2>
+          </div>
           <p>
             Dépanage informatique pour tout type de pc, sur site ou à l'attelier.
           </p>
-          <div class="btn-box">
+          <div class="title-box">
             <a href="#" className="btn">Prendre rendez-vous</a>
           </div>
-          <h3>Notre engagement</h3>
+          <div className="title-box">
+            <h3>Notre engagement</h3>
+          </div>
           <p>
             Afin de lutter contre le gaspillage et d'augmenter la durée de vie de
             votre materiel informatique, nos prestation vous permettront de conserver
@@ -33,7 +37,9 @@ function App() {
         </div>
 
         <div className="prestation">
-          <h2>Nos prestations</h2>
+          <div className="title-box">
+            <h2>Nos prestations</h2>
+          </div>
             <div className="cards">
               <Card
                 name="Réparation d'appareil"
@@ -55,7 +61,9 @@ function App() {
         </div>
 
         <div className="expert">
-          <h2>Notre expert</h2>
+          <div className="title-box">
+            <h2>Notre expert</h2>
+          </div>
           <div className="e-cont">
             <div className="e-photo"></div>
             <div className="e-text">
@@ -66,10 +74,14 @@ function App() {
         </div>
 
         <div className="contact">
-          <h3>Nous contacter</h3>
-          <p>
-            Mail:
-          </p>
+          <div className="title-box">
+            <h3><center>Nous contacter</center></h3>
+          </div>
+          <ul>
+            <li>Mail: beltran.ma@orange.fr</li>
+            <li>Mobile: 06 63 69 07 97</li>
+            <li>Téléphone: 09 77 949 101</li>
+          </ul>
         </div>
       </div>
 
