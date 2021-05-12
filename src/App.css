@@ -5,6 +5,8 @@
 @import url("components/expert.css");
 @import url("components/pres.css");
 @import url("components/presta.css");
+@import url("components/engagement.css");
+@import url("components/img-filler.css");
 
 .app {
   background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url(img/bg.jpg);
@@ -14,12 +16,11 @@
 }
 
 .btn {
+  color: white;
   padding: 10px 20px;
-  background-color: lightblue;
-  border-radius: 4px;
-  color: black;
+  background: linear-gradient(#51A0B8, #007DA3);
+  border-radius: 16px;
   text-decoration: none;
-  font-weight: bold;
 }
 
 .btn-box {
@@ -29,10 +30,7 @@
   height: 60px;
 }
 
-.app-body {
-  margin-left: 8%;
-  margin-right: 8%;
-}
+
 
 .title-box {
   width: 100%;
@@ -42,6 +40,10 @@
   height: 100px;
 }
 
+.text-white {
+  color: white;
+}
+
 @media only screen and (max-width: 1000px) {
   .app-content {
     margin-left: 1%;
@@ -49,3 +51,5 @@
   }
 
 }
+
+

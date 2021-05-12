@@ -4,6 +4,11 @@
   background-color: white;
 }
 
+.pres img {
+  height: 200px;
+  width: 200px;
+}
+
 @media only screen and (max-width: 500px) {
   .pres {
   display: clamp(60%, 80%, 90%);
