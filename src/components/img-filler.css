@@ -1,0 +1,6 @@
+.img-filler {
+  height: 50vh;
+  background-image: url("../img/comp-plant.jpg");
+  background-size: cover;
+  background-position: center;
+}

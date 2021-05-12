@@ -1,11 +1,14 @@
 .contact {
-  padding: 36px;
+  background-color: white;
+  padding-top: 24px;
+  padding-bottom: 24px;
 }
 
-.contact li {
-  color: white;
+.contact-p {
+  margin-bottom: 24px;
 }
 
-.contact h3 {
-  color: white;
+.contact-box {
+  text-align: center;
+
 }

@@ -1,6 +1,7 @@
 .footer {
-  background-color: lightblue;
-  min-height: 10vh;
+  background: linear-gradient(#51A0B8, #007DA3);
+  color: white;
+  min-height: 16vh;
   text-align: center;
   display: flex;
   align-items: center;
