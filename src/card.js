@@ -7,7 +7,7 @@ function Card({name, message, img}) {
       <div className="card-img">
         <img src={img} alt="img-presta"></img>
       </div>
-      <div className="card-text">
+      <div className="card-content">
         <h3>{name}</h3>
         <p>{message}</p>
       </div>

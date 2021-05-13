@@ -4,6 +4,15 @@
   display: flex;
   margin: 16px;
   height: 300px;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.card-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-right: 10%;
 }
 
 .card-img {
@@ -19,6 +28,7 @@
   width: 200px;
 }
 
-.card-text {
-  background-color: blue;
+.card-content h3 {
+  border-bottom: 2px solid;
+  margin-bottom: 16px;
 }
