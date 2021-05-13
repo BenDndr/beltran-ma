@@ -75,7 +75,7 @@ function App() {
                 />
               <Card
                 img={cd}
-                name="Transfert de films sur DD/DVD"
+                name="Transfert de films sur CD/DVD"
                 message="Si vous souhaitez stocker vos données sur un support
                 physique afin de limiter le risque de perte, nous vous proposons
                 de gérer le transfert dans la confidentialité et le respect de

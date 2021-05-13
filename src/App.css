@@ -52,4 +52,9 @@
 
 }
 
-
+.card-text {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-right: 10%;
+}

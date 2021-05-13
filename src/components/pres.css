@@ -2,6 +2,8 @@
   display: clamp(60%, 80%, 90%);
   padding: 36px;
   background-color: white;
+  padding-right: 10%;
+  padding-left: 10%;
 }
 
 .pres img {
