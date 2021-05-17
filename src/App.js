@@ -17,7 +17,7 @@ function App() {
         <h1>Beltran-ma</h1>
         <p>Dépanage informatique à domicile</p>
         <div className="btn-box">
-          <a href="#" className="btn">Contact</a>
+          <a href="mailto:beltran-ma@orange.fr" className="btn">Contact</a>
         </div>
       </div>
 
@@ -32,7 +32,7 @@ function App() {
             en relation avec notre expert qui mettra son savoir-faire à votre disposition.
           </p>
           <div className="title-box">
-            <a href="#" className="btn">Prendre rendez-vous</a>
+            <a href="mailto:beltran-ma@orange.fr" className="btn">Prendre rendez-vous</a>
           </div>
           <center><img src={device} alt="divice logo"></img></center>
         </div>
@@ -117,6 +117,9 @@ function App() {
             <p>
               <strong>Tél: 06 63 69 07 97 / 09 77 949 101</strong>
             </p>
+          </div>
+          <div className="title-box">
+            <a href="mailto:beltran-ma@orange.fr" className="btn">Prendre rendez-vous</a>
           </div>
         </div>
       </div>
