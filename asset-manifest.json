@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/beltran-ma/static/css/main.99a091d9.chunk.css",
-    "main.js": "/beltran-ma/static/js/main.89d0b9cb.chunk.js",
-    "main.js.map": "/beltran-ma/static/js/main.89d0b9cb.chunk.js.map",
+    "main.css": "/beltran-ma/static/css/main.1f51c710.chunk.css",
+    "main.js": "/beltran-ma/static/js/main.41774f39.chunk.js",
+    "main.js.map": "/beltran-ma/static/js/main.41774f39.chunk.js.map",
     "runtime-main.js": "/beltran-ma/static/js/runtime-main.85ee931f.js",
     "runtime-main.js.map": "/beltran-ma/static/js/runtime-main.85ee931f.js.map",
     "static/js/2.e143780a.chunk.js": "/beltran-ma/static/js/2.e143780a.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.6f45de60.chunk.js": "/beltran-ma/static/js/3.6f45de60.chunk.js",
     "static/js/3.6f45de60.chunk.js.map": "/beltran-ma/static/js/3.6f45de60.chunk.js.map",
     "index.html": "/beltran-ma/index.html",
-    "static/css/main.99a091d9.chunk.css.map": "/beltran-ma/static/css/main.99a091d9.chunk.css.map",
+    "static/css/main.1f51c710.chunk.css.map": "/beltran-ma/static/css/main.1f51c710.chunk.css.map",
     "static/js/2.e143780a.chunk.js.LICENSE.txt": "/beltran-ma/static/js/2.e143780a.chunk.js.LICENSE.txt",
     "static/media/App.css": "/beltran-ma/static/media/engagement.532290f0.jpg",
     "static/media/logo.78ff8bd5.gif": "/beltran-ma/static/media/logo.78ff8bd5.gif"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.85ee931f.js",
     "static/js/2.e143780a.chunk.js",
-    "static/css/main.99a091d9.chunk.css",
-    "static/js/main.89d0b9cb.chunk.js"
+    "static/css/main.1f51c710.chunk.css",
+    "static/js/main.41774f39.chunk.js"
   ]
 }
