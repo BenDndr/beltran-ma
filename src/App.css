@@ -30,6 +30,9 @@
   height: 60px;
 }
 
+.btn:hover {
+  background: linear-gradient(#007DA3, #51A0B8);
+}
 
 
 .title-box {
