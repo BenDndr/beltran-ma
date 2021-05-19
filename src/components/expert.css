@@ -30,3 +30,13 @@
   border-bottom: 2px solid;
   margin-bottom: 16px;
 }
+
+@media only screen and (max-width: 1000px) {
+  .e-photo {
+    display: none;
+  }
+
+  .e-text {
+    width: 100%
+  }
+}

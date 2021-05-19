@@ -17,3 +17,14 @@
 .banner p {
   margin-bottom: 8px;
 }
+
+@media only screen and (max-width: 400px) {
+  .banner {
+    padding-right: 4px;
+    padding-left: 4px;
+  }
+
+  .banner p {
+    text-align: center;
+  }
+}

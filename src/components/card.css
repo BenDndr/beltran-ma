@@ -20,7 +20,7 @@
   align-items: center;
   justify-content: center;
   height: 100%;
-  width: 100%;
+  width: 50em;
 }
 
 .card-img img {
@@ -31,4 +31,24 @@
 .card-content h3 {
   border-bottom: 2px solid;
   margin-bottom: 16px;
+}
+
+@media only screen and (max-width: 1000px) {
+  .card-img {
+    display: none;
+  }
+
+  .card-content {
+    padding-left: 10%;
+  }
+}
+
+@media only screen and (max-width: 400px) {
+  .card {
+    height: auto;
+  }
+
+  .card-content {
+    padding: 8px;
+  }
 }
