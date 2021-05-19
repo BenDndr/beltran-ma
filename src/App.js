@@ -27,9 +27,12 @@ function App() {
             <h2><center>Réparation de materiel informatique</center></h2>
           </div>
           <p>
-            Dépanage informatique pour tout type de pc, sur site ou à l'attelier.
-            Que vous rencontriez un problème hardware ou software, nous vous mettrons
-            en relation avec notre expert qui mettra son savoir-faire à votre disposition.
+            Dépanage informatique pour tout type d'appareil, sur site ou à l'attelier.
+            Que vous rencontriez un problème hardware ou software ou que vous souhaitiez
+            simplement retrouver les performances d'origine de votre ordinateur, nous vous proposons
+            une assistance informatique dans les 72h. En plus de la réparation, nous
+            répondrons à vos éventuelles questions et nous vous conseillerons pour
+            une meilleure utilisation de votre ordinateur.
           </p>
           <div className="title-box">
             <a href="mailto:beltran-ma@orange.fr" className="btn">Prendre rendez-vous</a>
@@ -107,7 +110,8 @@ function App() {
           <div className="title-box">
             <h3>Nous contacter</h3>
           </div>
-          <p className="contact-p">Déplacement à domicile dans “zone géographique” disponible en semaine.
+          <p className="contact-p">Déplacement à domicile à Saint-Jean d'Illac, Martignas-sur-Jalle, Cestas, Le Haillan, Canéjan et Mérignac.
+           disponible du <strong>lundi au vendredi de 9h à 12h et de 15h à 19h30 et le samedi de 9h à 12h</strong>.
             N’hésitez à prendre contact avec nous pour faire un devis ou pour prendre
             rendez-vous.</p>
           <div className="contact-box">
@@ -129,8 +133,7 @@ function App() {
       <div className="footer">
         <p>© 2021 beltran-ma.fr</p>
         <div>
-          <i className="fab fa-facebook-square"></i>
-          <i className="fab fa-twitter-square"></i>
+          <a href="https://www.facebook.com/beltran.ma.5"><i className="fab fa-facebook-square"></i></a>
         </div>
       </div>
 

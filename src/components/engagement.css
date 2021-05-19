@@ -24,3 +24,15 @@
   width: 50%;
   padding-right: 10%;
 }
+
+@media only screen and (max-width: 900px) {
+  .engagement-img {
+    display: none;
+  }
+
+  .engagement-txt {
+    width: 100%;
+    padding-right: 10%;
+    padding-left: 10%;
+  }
+}
