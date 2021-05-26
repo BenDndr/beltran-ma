@@ -92,12 +92,14 @@ function App() {
             <div className="e-photo"></div>
             <div className="e-text">
               <h3 className="text-white">Notre Expert</h3>
-              <p className="text-white">Marcel Beltran, Lorem ipsum dolor sit amet, consectetur adipiscing
-                elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet,
-                adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam.
-                Maecenas ligula massa, varius a, semper congue, euismod non, mi. Proin
-                porttitor, orci nec nonummy molestie, enim est eleifend mi, non
-                fermentum diam nisl sit amet erat.
+              <p className="text-white">
+                Marcel Beltran, titulaire d’un bac informatique et avec plus de
+                20 ans d’expérience, met son expertise à votre disposition. Très
+                pédagogue et passionné, Marcel à pu répondre aux attentes de plus
+                de 10 000 clients et plus de 400 entreprises avec un taux de satisfaction
+                des plus élevés. Entouré de 4 collaborateurs compétents, nous travaillons
+                également avec des entreprises expertes dans leur domaine, comme Microsoft
+                France, Kaspersky France, Ontrack, EasyRecovery Professionnal et bien d’autres.
               </p>
             </div>
           </div>
