@@ -48,7 +48,7 @@ function App() {
             <p className="text-white">
               Afin de lutter contre le gaspillage et d'augmenter la durée de vie de
               votre materiel informatique, nos prestations vous permettront de conserver
-              plus longtemp votre ordinateur ou votre smartphone. Vous pourrez ainsi
+              plus longtemps votre ordinateur ou votre smartphone. Vous pourrez ainsi
               économiser sur vos dépenses technologiques tout en faisant un geste
               éco-responsable.
             </p>
