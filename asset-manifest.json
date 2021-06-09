@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/beltran-ma/static/css/main.a4da9908.chunk.css",
-    "main.js": "/beltran-ma/static/js/main.de87be3a.chunk.js",
-    "main.js.map": "/beltran-ma/static/js/main.de87be3a.chunk.js.map",
+    "main.js": "/beltran-ma/static/js/main.5581714d.chunk.js",
+    "main.js.map": "/beltran-ma/static/js/main.5581714d.chunk.js.map",
     "runtime-main.js": "/beltran-ma/static/js/runtime-main.85ee931f.js",
     "runtime-main.js.map": "/beltran-ma/static/js/runtime-main.85ee931f.js.map",
     "static/js/2.e143780a.chunk.js": "/beltran-ma/static/js/2.e143780a.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.85ee931f.js",
     "static/js/2.e143780a.chunk.js",
     "static/css/main.a4da9908.chunk.css",
-    "static/js/main.de87be3a.chunk.js"
+    "static/js/main.5581714d.chunk.js"
   ]
 }
