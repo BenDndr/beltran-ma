@@ -6,12 +6,12 @@ import device from './img/devices.png';
 import repa from './img/repa.png';
 import data from './img/data.png';
 import cd from './img/CD.png';
-import ReactGA from 'react-ga';
+/* import ReactGA from 'react-ga'; */
 
 function App() {
 
-  ReactGA.initialize('UA-199076446-1');
-  ReactGA.pageview('/');
+  /* ReactGA.initialize('UA-199076446-1');
+  ReactGA.pageview('/'); */
 
   return(
     <div className="app">
